@@ -1,0 +1,10 @@
+.sonar
+.env
+credentials.json
+sonar-project.properties
+README.md
+
+*.sql
+
+__pycache__/
+*.pyc
