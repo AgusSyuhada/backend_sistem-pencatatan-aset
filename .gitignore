@@ -2,7 +2,6 @@
 .env
 credentials.json
 sonar-project.properties
-README.md
 
 *.sql
 
